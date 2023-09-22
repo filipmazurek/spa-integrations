@@ -1,0 +1,33 @@
+[HOOKS] Entering ROI
+[HOOKS] M5: taking a checkpoint 
+(10,1)
+(16,2)
+(16,3)
+(16,4)
+(16,5)
+(16,6)
+(16,7)
+(16,8)
+(16,9)
+(16,10)
+(16,11)
+(16,12)
+(16,13)
+(16,14)
+(16,15)
+(16,16)
+[HOOKS] Leaving ROI
+QUERY TIME: 0.490 seconds
+[HOOKS] Terminating
+
+real	0m0.521s
+user	0m1.613s
+sys	0m0.045s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+Done running script, exiting.
